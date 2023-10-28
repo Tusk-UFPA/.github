@@ -1,5 +1,4 @@
-# Tusk
-![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
+# Tusk ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Links
 
