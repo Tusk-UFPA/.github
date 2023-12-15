@@ -1,11 +1,8 @@
-# Tusk ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
+#  Projeto de Combate à Exclusão Elétrica no Brasil ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Links
 
-- [Documentação](link_da_documentação)
-- [Site Oficial](link_do_site_oficial)
-
-# Projeto de Combate à Exclusão Elétrica no Brasil
+- [Site Oficial](https://tusk-site.cyclic.app/)
 
 ## Visão Geral
 
@@ -28,17 +25,17 @@ Contribua para o futuro energético sustentável do Brasil participando deste pr
 ## Desenvolvedores
 
 - **Brendo**
-  - GitHub: [BrendoGitHub](https://github.com/BrendoGitHub)
-  - Função: Desenvolvedor Frontend
+  - GitHub: [BrendoGitHub](https://github.com/Brendo-C137)
+  - Função: Projetista de Hardware
 
 - **Eduardo**
-  - GitHub: [EduardoCoder](https://github.com/EduardoCoder)
-  - Função: Desenvolvedor Backend
+  - GitHub: [Eduardo](https://github.com/eduardo-lourenco-ufpa)
+  - Função: Desenvolvedor
 
 - **Jean**
-  - GitHub: [JeanDev](https://github.com/JeanDev)
-  - Função: Arquiteto de Sistemas
+  - GitHub: [JeanDev](https://github.com/JD3an)
+  - Função: Projetista de Hardware
 
 - **Prince**
-  - GitHub: [PrinceCoder](https://github.com/PrinceCoder)
-  - Função: Engenheiro de Software
+  - GitHub: [PrinceCoder](https://github.com/prinako)
+  - Função: Projetista Elétrico
